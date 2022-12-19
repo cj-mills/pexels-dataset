@@ -1,6 +1,8 @@
 # Pexels Dataset
 
+This GitHub repository contains image attributes for a dataset of [free-use](https://www.pexels.com/license/) stock photos. This dataset may be useful for image classification, image generation, object detection, and other related tasks. 
 
+The dataset is available in two versions. One version has a minimum resolution of 512 pixels, while the other has a minimum resolution of 768 pixels. Both datasets have maximum dimensions that are multiples of 32.
 
 ### Kaggle Datasets
 
