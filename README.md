@@ -4,7 +4,7 @@
 
 ### Sample Image
 
-![3186010](/media/innom-dt/Samsung_T3/Projects/GitHub/pexels-dataset/images/3186010.jpg)
+![3186010](./images/3186010.jpg)
 
 
 
