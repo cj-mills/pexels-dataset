@@ -3,9 +3,7 @@
 
 
 ### Sample Image
-
 ![3186010](./images/3186010.jpg)
-
 
 
 ### Sample Entry
