@@ -4,8 +4,9 @@
 
 ### Sample Image
 
-<img align="center" src="./images/3186010.jpg">
-
+<p align="center">
+    <img src="./images/3186010.jpg">
+</p>
 
 ### Sample Entry
 
