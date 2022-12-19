@@ -4,10 +4,10 @@
 
 ### Kaggle Datasets
 
-| Version  | Source Images                                                | Depth Images |
-| -------- | ------------------------------------------------------------ | ------------ |
-| **512p** | [Pexels 110k 512p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg) |              |
-| **768p** | [Pexels 110k 768p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-768p-min-jpg?select=pexels-110k-768p-min-jpg) |              |
+| Version | Source Images                                                | Depth Images |
+| ------- | ------------------------------------------------------------ | ------------ |
+| 512p    | [Pexels 110k 512p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg) |              |
+| 768p    | [Pexels 110k 768p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-768p-min-jpg?select=pexels-110k-768p-min-jpg) |              |
 
 
 
