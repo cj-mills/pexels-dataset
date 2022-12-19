@@ -3,7 +3,8 @@
 
 
 ### Sample Image
-![3186010](./images/3186010.jpg)
+
+<img align="center" src="./images/3186010.jpg">
 
 
 ### Sample Entry
