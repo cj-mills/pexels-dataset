@@ -9,14 +9,14 @@ The dataset is available in two versions. One version has a minimum resolution o
 | Version | Source Images                                                | Depth Images |
 | ------- | ------------------------------------------------------------ | ------------ |
 | 512p    | [Pexels 110k 512p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg) |              |
-| 768p    | [Pexels 110k 768p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-768p-min-jpg?select=pexels-110k-768p-min-jpg) |              |
+| 768p    | [Pexels 110k 768p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-768p-min-jpg?select=pexels-110k-768p-min-jpg) | [Pexels 110k 768p JPEG Depth Maps](https://www.kaggle.com/datasets/innominate817/pexels-110k-768p-min-jpg-depth-dpt-hybrid) |
 
 
 
-### Sample Image
+### Sample Image with Depth Map
 
 <p align="center">
-    <img src="./images/3186010.jpg">
+    <img src="./images/3185509-img-depth-pair-512p.png">
 </p>
 
 ### Sample Entry
