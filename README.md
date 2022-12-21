@@ -6,9 +6,9 @@ The dataset is available in two versions. One version has a minimum resolution o
 
 ### Kaggle Datasets
 
-| Version | Source Images                                                | Depth Images |
-| ------- | ------------------------------------------------------------ | ------------ |
-| 512p    | [Pexels 110k 512p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg) |              |
+| Version | Source Images                                                | Depth Images                                                 |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 512p    | [Pexels 110k 512p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg) | [Pexels 110k 512p JPEG Depth Maps](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth) |
 | 768p    | [Pexels 110k 768p JPEG](https://www.kaggle.com/datasets/innominate817/pexels-110k-768p-min-jpg?select=pexels-110k-768p-min-jpg) | [Pexels 110k 768p JPEG Depth Maps](https://www.kaggle.com/datasets/innominate817/pexels-110k-768p-min-jpg-depth-dpt-hybrid) |
 
 
